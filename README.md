@@ -1,2 +1,2 @@
 # RedBank
-Banking application
+Simple Banking simulation
